@@ -5,3 +5,5 @@ streamlit==1.37.1
 seaborn==0.13.2
 matplotlib==3.8.4
 pillow==10.3.0
+setuptools==68.2.2
+wheel==0.43.0
